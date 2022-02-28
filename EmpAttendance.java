@@ -9,3 +9,5 @@ public class EmpAttendance{
 	System.out.println("Employee is Absent");		
 	}
 }
+
+//Made a small change by adding comment 
